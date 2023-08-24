@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=behldevansh&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=behldevansh&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=behldevansh&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=behldevansh&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=behldevansh&limit=5&theme=dark&combine_all_yearly_contributions=true)

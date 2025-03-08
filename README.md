@@ -28,13 +28,20 @@ Let's connect and explore the world of tech together!
 
 <h1>👨‍💼 Experience</h1>
 
+<h3>Scientific Analysis Group (SAG) , DRDO - Software Developer Engineer Intern</h3>
+<h4 align="right">December 2024 – January 2025</h3>
+
+- Designed a cryptography and blockchain platform to secure communication for the Indian Air Force.
+- Advanced research on Federated Learning and Local Differential Privacy for anomaly detection in systems.
+- Analyzed and improved the scalability of defense-grade cryptographic protocols for high-stakes scenarios.
+
 <h3>Palanam Technology Pvt. Ltd. - Software Developer Engineer Intern</h3>
 <h4 align="right">June 2024 – August 2024</h3>
 
 - Developed a website for reporting sensitive and vulgar content in online videos,improving content moderation.
 - Ensured a safer and cleaner video streaming experience with advanced content filtering and monitoring solutions.
-- Successfully implemented a MERN application enabling timestamp reporting and skip functionality.
-
+- Integrated timestamp reporting and skip functionality for precise content moderation.
+  
 <h1>🎓 Academics</h1>
 
 | Institution | Degree | Year |
@@ -62,27 +69,25 @@ Let's connect and explore the world of tech together!
 <h1>🚀 Personal Projects</h1>
 
 - [JOI](https://github.com/behldevansh/Joi) | NextJS, Tailwind, shad/cn, framer-motion, Clerk, Uploadcare, Neon Tech
-  - A Full Stack Super Website automating everyday task connected to Google Drive, Slack and other Services.
-  - Automatic Workflow between all the Applications, giving absolute privacy and authentication.
+  - Built a robust website automating everyday tasks by integrating services like Google Drive.
+  - Designed and deployed efficient backend systems ensuring seamless task execution and data synchronization.
 - [CenShield](https://github.com/behldevansh/CenShield) | ReactJS, Tailwind, shad/cn, MongoDB, MATLAB
-  - A platform to report sensitive content in the form of timestamps.
-  - Ensured a safer and cleaner video streaming experience with database of over 1000+ videos.
+  - A platform to report sensitive video content across platforms like YouTube and Dailymotion.
+  - Added timestamp-based reporting and content skip functionalities for efficient moderation.
 - [Notify](https://github.com/behldevansh/Notify) | NextJS, NextAuth, Tailwind, Clerk, shadcn/ui, Convex
-  - Convex backend along with Clerk Authentication to access the data and share with others.
-  - Real-time database supporting upload, deletion and replacement styled using NextJS and Tailwind.
+  - Developed a platform for managing data with functionalities for upload, deletion, and replacement.
+  - Convex backend along with Clerk Authentication to access the data and share with others securely.
 
 
 
 <h1>🏆 Achievements</h1>
 
 - <b>Smart India Hackathon 2023 Winner | Problem Statement-1408</b>
-  - Provide RESTful APIs for the frontend to access log data, analysis results.
-  - Customizable alerts and notifications based on specific log patterns or security events.
-  - Machine learning techniques are employed to detect threats and anomalies.
+  - Incorporated encryption, firewalls, and network segmentation to ensure data protection against breaches.
+  - Proposed log compression and archival methods to manage storage costs effectively while maintaining records.
   
 - <b>Special Mention FinAThon</b>
-  - Recognized team for outstanding performance in financial technology innovation.
-  - Acknowledged for contributions to advancing solutions in the banking sector.
-  - Demonstrated excellence in FinTech, earning special mention from South Indian Bank.
+  - Conducted flagship events like TechWeek and HackNSUT, fostering technical excellence.
+  - Led the development of IEEE NSUT and events website, enhancing the organization’s digital presence.
 
 [![](https://visitcount.itsvg.in/api?id=behldevansh&icon=0&color=0)](https://visitcount.itsvg.in)

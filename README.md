@@ -87,6 +87,12 @@ Let's connect and explore the world of tech together!
   - Proposed log compression and archival methods to manage storage costs effectively while maintaining records.
   
 - <b>Special Mention FinAThon</b>
+  - Utilized gamification techniques to analyze and tailor personalized financial products and services.
+  - Developed modules to educate users on financial concepts through interactive games and challenges.
+
+<h1>🏆 Position of Responsibility</h1>
+  
+- <b>Head of Technical Department | IEEE NSUT</b>
   - Conducted flagship events like TechWeek and HackNSUT, fostering technical excellence.
   - Led the development of IEEE NSUT and events website, enhancing the organization’s digital presence.
 

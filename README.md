@@ -28,19 +28,27 @@ Let's connect and explore the world of tech together!
 
 <h1>👨‍💼 Experience</h1>
 
+<h3>Cadence Design Systems - Software Engineer Intern</h3>
+<h4 align="right">December 2024 – January 2025</h3>
+
+- Member of Allegro Devel R&D, improved reliability and optimized Ericsson design, enhancing EOS analysis.
+- Implemented secure MTBF data handling with robust encryption-decryption workflows, enhancing data security.
+- Working on automating test‑case generation scripts, reducing manual effort, and eliminating configuration errors.
+
+
 <h3>Scientific Analysis Group (SAG) , DRDO - Software Developer Engineer Intern</h3>
 <h4 align="right">December 2024 – January 2025</h3>
 
-- Designed a cryptography and blockchain platform to secure communication for the Indian Air Force.
-- Advanced research on Federated Learning and Local Differential Privacy for anomaly detection in systems.
-- Analyzed and improved the scalability of defense-grade cryptographic protocols for high-stakes scenarios.
-
+- Engineered a secure platform using blockchain and Federated Learning, reducing anomaly detection time.
+- Designed end-to-end architecture for log analysis and anomaly detection tailored to high-security environments.
+- Enhanced scalability of secure communication protocols for high-load, real-time military environments.
+  
 <h3>Palanam Technology Pvt. Ltd. - Software Developer Engineer Intern</h3>
 <h4 align="right">June 2024 – August 2024</h3>
 
-- Developed a website for reporting sensitive and vulgar content in online videos,improving content moderation.
-- Ensured a safer and cleaner video streaming experience with advanced content filtering and monitoring solutions.
-- Integrated timestamp reporting and skip functionality for precise content moderation.
+- Built a platform for reporting sensitive video content, handling 500+ weekly reports to streamline moderation.
+- Integrated cross-platform support with advanced content filtering and monitoring solutions.
+- Streamlined moderation via a centralized database of 1000+ pre-flagged content and accelerate content review.
   
 <h1>🎓 Academics</h1>
 

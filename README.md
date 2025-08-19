@@ -29,7 +29,7 @@ Let's connect and explore the world of tech together!
 <h1>👨‍💼 Experience</h1>
 
 <h3>Cadence Design Systems - Software Engineer Intern</h3>
-<h4 align="right">December 2024 – January 2025</h3>
+<h4 align="right">June 2025 -- July 2025</h3>
 
 - Member of Allegro Devel R&D, improved reliability and optimized Ericsson design, enhancing EOS analysis.
 - Implemented secure MTBF data handling with robust encryption-decryption workflows, enhancing data security.
